@@ -2,7 +2,7 @@ module main
 
 go 1.19
 
-require github.com/Kerensky585/walletapi v0.1.6
+require github.com/Kerensky585/walletapi v0.1.9
 
 require (
 	github.com/gin-contrib/sse v0.1.0 // indirect
